@@ -7,6 +7,7 @@ public class Main {
 
         Pizzas builder = new PizzaBuilder().build();
         Pizzas sintaxisEncadenada = new PizzaBuilder()
+                .setMasa(Pizzas.MASA_PAN)
                 .setRelleno(true)
                 .setTipo(Pizzas.NORMAL)
                 .setSalsa(true)

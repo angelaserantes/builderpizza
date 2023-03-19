@@ -11,7 +11,7 @@ public class PizzaBuilder {
     }
 
 
-    public PizzaBuilder setmasa(int masa) {
+    public PizzaBuilder setMasa(int masa) {
         _pizza.setMasa(masa);
         return this;
     }
