@@ -75,3 +75,5 @@ De esta forma conseguiremos que se pueda modificar de una manera más sencilla, 
 ### Combinación Builder - Factory
 
 Sí es posible llevar a cabo la combinación, ya que con Builder se pueden crear los objetos y con Factory encapsular la creación.
+
+### Examen
